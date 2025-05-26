@@ -1,4 +1,4 @@
-🏅 Olympic Games Data Analysis Dashboard
+##🏅 Olympic Games Data Analysis Dashboard
 
 This project analyzes a comprehensive dataset of Olympic events to uncover patterns in sports, athlete performance, and national achievements. It includes an interactive dashboard that makes complex insights accessible and engaging for users.
 
