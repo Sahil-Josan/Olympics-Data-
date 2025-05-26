@@ -89,10 +89,7 @@ The dataset supports extended analysis beyond the dashboard:
 ## 📁 6. Project Structure
 
 .
-├── # Raw dataset[Uploading athlete_events.csv…]()
-
-├── olympics dashboard.png # Dashboard image
-└── README.md # Project overview
+  # Raw dataset[Uploading athlete_events.csv…]()
 
 ⚙️ 7. Technologies Used
 
