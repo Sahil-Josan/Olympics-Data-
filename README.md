@@ -1,4 +1,4 @@
-![olympics dashboard](https://github.com/user-attachments/assets/7a4de18a-0147-4f9b-93a1-7ed77468fc33)# 🏅 Olympic Games Data Analysis Dashboard
+🏅 Olympic Games Data Analysis Dashboard
 
 This project analyzes a comprehensive dataset of Olympic events to uncover patterns in sports, athlete performance, and national achievements. It includes an interactive dashboard that makes complex insights accessible and engaging for users.
 
