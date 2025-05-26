@@ -89,35 +89,18 @@ The dataset supports extended analysis beyond the dashboard:
 ## 📁 6. Project Structure
 
 .
-├── athlete_events.csv # Raw dataset
+├── # Raw dataset[Uploading athlete_events.csv…]()
+
 ├── olympics dashboard.png # Dashboard image
 └── README.md # Project overview
 
 ⚙️ 7. Technologies Used
 
 - **Data Analysis**: Ms Excel, Power Query
-- **Visualization**: Power BI *(or similar BI tool such as Tableau or Looker Studio)*
+- **Visualization**: Power BI 
 
----
 
-## 🧭 8. How to Use
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/olympic-data-analysis.git
-Access the Dashboard:
-
-Open olympics dashboard.png to view the visual insights.
-
-If a .pbix (Power BI) or .twbx (Tableau) file is available, open it using the respective BI tool.
-
-Run Custom Analysis:
-
-Load athlete_events.csv into your preferred data analysis environment (e.g., Python, R, Excel).
-
-Use tools like Jupyter Notebook, Power BI, or Tableau to explore and analyze the data.
-
-🚀 9. Future Enhancements
+🚀 8. Future Enhancements
 ✅ ![olympics dashboard](https://github.com/user-attachments/assets/24ad978c-3549-48ed-b752-5491d30d81d7)
 
 🙌 Acknowledgements
