@@ -1,4 +1,4 @@
-# 🏅 Olympic Games Data Analysis Dashboard
+![olympics dashboard](https://github.com/user-attachments/assets/7a4de18a-0147-4f9b-93a1-7ed77468fc33)# 🏅 Olympic Games Data Analysis Dashboard
 
 This project analyzes a comprehensive dataset of Olympic events to uncover patterns in sports, athlete performance, and national achievements. It includes an interactive dashboard that makes complex insights accessible and engaging for users.
 
@@ -92,3 +92,35 @@ The dataset supports extended analysis beyond the dashboard:
 ├── athlete_events.csv # Raw dataset
 ├── olympics dashboard.png # Dashboard image
 └── README.md # Project overview
+
+⚙️ 7. Technologies Used
+
+- **Data Analysis**: Ms Excel, Power Query
+- **Visualization**: Power BI *(or similar BI tool such as Tableau or Looker Studio)*
+
+---
+
+## 🧭 8. How to Use
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/olympic-data-analysis.git
+Access the Dashboard:
+
+Open olympics dashboard.png to view the visual insights.
+
+If a .pbix (Power BI) or .twbx (Tableau) file is available, open it using the respective BI tool.
+
+Run Custom Analysis:
+
+Load athlete_events.csv into your preferred data analysis environment (e.g., Python, R, Excel).
+
+Use tools like Jupyter Notebook, Power BI, or Tableau to explore and analyze the data.
+
+🚀 9. Future Enhancements
+✅ ![olympics dashboard](https://github.com/user-attachments/assets/24ad978c-3549-48ed-b752-5491d30d81d7)
+
+🙌 Acknowledgements
+Dataset Source: Kaggle – 120 Years of Olympic History: Athletes and Results
+
+Tools Used: Ms Excel, Power BI
